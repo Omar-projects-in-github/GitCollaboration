@@ -3,3 +3,7 @@ public class MainClass {
         System.out.println("Magzhan");
     }
 } //asdf;lkjasd;lfkjasdf
+
+/*
+master changed before PR
+*/
