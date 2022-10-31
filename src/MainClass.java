@@ -3,3 +3,7 @@ public class MainClass {
         System.out.println("Magzhan");
     }
 } //asdf;lkjasd;lfkjasdf
+
+/*
+We need to know merging branches in Git
+ */
