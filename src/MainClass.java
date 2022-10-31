@@ -5,5 +5,9 @@ public class MainClass {
 } //asdf;lkjasd;lfkjasdf
 
 /*
+master changed before PR
+*/
+
+/*
 We need to know merging branches in Git
  */
